@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/strava-dashboard/static/css/main.c028eb69.css",
-    "main.js": "/strava-dashboard/static/js/main.c81b362f.js",
+    "main.css": "/strava-dashboard/static/css/main.6740cf0e.css",
+    "main.js": "/strava-dashboard/static/js/main.9c349ddf.js",
     "static/js/689.66995c1a.chunk.js": "/strava-dashboard/static/js/689.66995c1a.chunk.js",
     "static/js/7314.620e6f7c.chunk.js": "/strava-dashboard/static/js/7314.620e6f7c.chunk.js",
     "static/js/118.bdffbb03.chunk.js": "/strava-dashboard/static/js/118.bdffbb03.chunk.js",
@@ -146,8 +146,8 @@
     "static/js/1331.f54f9eb3.chunk.js": "/strava-dashboard/static/js/1331.f54f9eb3.chunk.js",
     "static/js/5260.6a1dc922.chunk.js": "/strava-dashboard/static/js/5260.6a1dc922.chunk.js",
     "index.html": "/strava-dashboard/index.html",
-    "main.c028eb69.css.map": "/strava-dashboard/static/css/main.c028eb69.css.map",
-    "main.c81b362f.js.map": "/strava-dashboard/static/js/main.c81b362f.js.map",
+    "main.6740cf0e.css.map": "/strava-dashboard/static/css/main.6740cf0e.css.map",
+    "main.9c349ddf.js.map": "/strava-dashboard/static/js/main.9c349ddf.js.map",
     "689.66995c1a.chunk.js.map": "/strava-dashboard/static/js/689.66995c1a.chunk.js.map",
     "7314.620e6f7c.chunk.js.map": "/strava-dashboard/static/js/7314.620e6f7c.chunk.js.map",
     "118.bdffbb03.chunk.js.map": "/strava-dashboard/static/js/118.bdffbb03.chunk.js.map",
@@ -293,7 +293,7 @@
     "5260.6a1dc922.chunk.js.map": "/strava-dashboard/static/js/5260.6a1dc922.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c028eb69.css",
-    "static/js/main.c81b362f.js"
+    "static/css/main.6740cf0e.css",
+    "static/js/main.9c349ddf.js"
   ]
 }
